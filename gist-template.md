@@ -4,7 +4,7 @@ Have you ever heard of regular expressions or "regex" for short? They're a way t
 
 ## Summary
 
-Matching an email using Regex means finding a specific pattern of characters that follows a certain format, like the format of an email address. A typical email address has a username, the "@" symbol, and a domain name. By using a specific set of rules called a Regex code, we can extract or check if an email address is valid or not. This is helpful for tasks like processing data and checking for errors.
+Matching an email using Regex means finding a specific pattern of characters that follows a certain format, like the format of an email address.  [Matching an Email: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`] A typical email address has a username, the "@" symbol, and a domain name. By using a specific set of rules called a Regex code, we can extract or check if an email address is valid or not. This is helpful for tasks like processing data and checking for errors.
 
 ## Table of Contents
 
